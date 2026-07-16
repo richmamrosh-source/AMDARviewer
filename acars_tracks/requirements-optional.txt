@@ -1,0 +1,4 @@
+# Optional: nicer Skew-T sounding rendering with pyMeteo.
+# The app works fine without this — it falls back to a clean built-in renderer.
+# pyMeteo pulls in h5py (and uses netCDF4, already required above).
+pymeteo>=1.0.3

@@ -1,0 +1,6 @@
+# ACARS flight-track + sounding map — required Python packages
+Flask>=3.0
+requests>=2.28
+numpy>=1.23
+matplotlib>=3.6
+netCDF4>=1.6
