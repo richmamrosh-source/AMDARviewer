@@ -1,5 +1,16 @@
 # ACARS Flight Tracks, Wind Barbs & Soundings
 
+## Screenshots
+
+![Tracks and wind barbs over the CONUS](docs/screenshots/map.png)
+
+![Skew-T flagged with the "Dewpoint likely bad" banner](docs/screenshots/bad-dewpoint.png)
+
+![Comparison viewer: AMDAR, radiosonde, and HRRR overlaid](docs/screenshots/compare.png)
+
+![Console listing the faulty-sensor tails](docs/screenshots/console.png) 
+
+
 ### ▶ Never run something from GitHub before? → **[GETTING-STARTED.md](GETTING-STARTED.md)**
 *Step by step, written for meteorologists rather than programmers.*
 
