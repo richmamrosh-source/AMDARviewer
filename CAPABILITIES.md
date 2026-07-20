@@ -1,7 +1,7 @@
 # ACARS Tracks & Soundings — Capability Summary
 
 **A desktop tool for viewing aircraft-based weather observations — and for finding
-the aircraft whose sensors are lying.**
+the aircraft whose sensors are defective.**
 
 Built by a retired National Weather Service meteorologist. Runs locally on any
 Windows PC. ~7,000 lines of Python and browser JavaScript. No Java, no plugins,
@@ -9,7 +9,7 @@ no server.
 
 ---
 
-## The part that doesn't exist anywhere else
+## Qulaity control that doesn't exist anywhere else
 
 **MADIS quality-controls aircraft dewpoint only to QC level 2** — validity (is the
 value in range?) and internal consistency (is Td ≤ T?). **Level 3, the
@@ -94,9 +94,9 @@ than hosted as a website.
 
 ---
 
-## What I'm looking for
+## What I would like to see happen with this program
 
-An organization positioned to refine, support, and distribute this to the people
+Identify an organization positioned to refine, support, and distribute this to the people
 who would benefit — airline meteorology teams, NWS forecast offices, sensor
 vendors — and to handle the data agreements that a hosted version would require.
 
@@ -104,4 +104,4 @@ I am happy to demonstrate it live, hand over the source, or support a transition
 
 *To try it yourself: see `GETTING-STARTED.md` — three steps, no programming.*
 
-**Contact:** `<YOUR NAME>` · `<YOUR EMAIL>`
+**Contact:** `Richard Mamrosh` · richmamrosh@gmail.com
